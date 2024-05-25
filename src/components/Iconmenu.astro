@@ -1,0 +1,37 @@
+---
+
+---
+
+<svg id="iconmenu" width="36" height="36" viewBox="0 0 553 553" fill="none" xmlns="http://www.w3.org/2000/svg" onclick="togglemenu()">
+    <path d="M0 0H552.982V552.982H0V0Z" fill="none" fill-opacity="0.00"/>
+    <path d="M91.584 137.666H460.239" stroke="#070707" stroke-width="46.0818" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M91.584 275.911H460.239" stroke="#070707" stroke-width="46.0818" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M91.584 414.157H460.239" stroke="#070707" stroke-width="46.0818" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+<style>
+    #iconmenu {
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        z-index: 1;
+        cursor: pointer;
+    }
+</style>
+
+<script is:inline>
+    function togglemenu() {
+        if  ( document.getElementById("mainmenu").getAttribute("data-open") == "0" ) {
+            document.getElementById("mainmenu").setAttribute("data-open", "1" )
+            document.getElementById("mainmenu").style.right = "0%";
+            document.getElementById("iconmenu").style.display = "none";
+            document.getElementById("iconcerrar").style.display = "initial";
+        } else {
+            document.getElementById("mainmenu").setAttribute("data-open", "0")
+            document.getElementById("mainmenu").style.right = "-100%";
+            document.getElementById("iconmenu").style.display = "initial";
+            document.getElementById("iconcerrar").style.display = "none";
+        }
+        
+    }
+</script>

@@ -1,0 +1,25 @@
+---
+import Mainmapa from '../components/Mainmapa.astro';
+import Mainmenu from '../components/Mainmenu.astro';
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Welcome to Astro.">
+	<main>
+		<Mainmapa />
+	</main>
+	<Mainmenu />
+</Layout>
+
+<style>
+	main {
+		margin: auto;
+		/* padding: 1rem; */
+		width: 800px;
+		max-width: calc(100%);
+		/* color: white; */
+		font-size: 20px;
+		line-height: 1.6;
+		background-color: #dedec9;
+	}
+</style>
