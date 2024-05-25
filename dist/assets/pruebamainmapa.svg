@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 667">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #79874e;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 28px;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #d53da2;
+      }
+
+      .cls-5 {
+        fill: #565b47;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        fill: #33466b;
+      }
+
+      .cls-7 {
+        fill: #a3924f;
+      }
+
+      .cls-8 {
+        fill: #8f537d;
+      }
+
+      .cls-3 {
+        fill: #e1c04a;
+        stroke: #e1c04a;
+      }
+
+      .cls-4 {
+        stroke: #3e72e0;
+      }
+    </style>
+  </defs>
+  <line class="cls-3" x1="-33" y1="593.5" x2="396" y2="593.5"/>
+  <line class="cls-1" x1="80" y1="-24.5" x2="80" y2="699.5"/>
+  <line class="cls-2" x1="-21" y1="167.5" x2="408" y2="167.5"/>
+  <line class="cls-4" x1="202" y1="-19.5" x2="202" y2="704.5"/>
+  <path id="logoverde" class="cls-5" d="M49,231.22h33.61c16.22,0,29.39,13.17,29.39,29.39v33.89h-63v-63.28h0Z"/>
+  <path id="logorosa" class="cls-8" d="M263.46,130.29h33.61c16.22,0,29.39,13.17,29.39,29.39v33.89h-63v-63.28h0Z"/>
+  <path id="logoazul" class="cls-6" d="M169.67,429.29h33.61c16.22,0,29.39,13.17,29.39,29.39v33.89h-63v-63.28h0Z"/>
+  <path id="logoamarillo" class="cls-7" d="M278.67,558.29h33.61c16.22,0,29.39,13.17,29.39,29.39v33.89h-63v-63.28h0Z"/>
+</svg>
