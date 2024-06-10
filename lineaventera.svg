@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2627 4776">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #565b47;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #79874e;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 40px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_2" data-name="Capa 2">
+    <polyline class="cls-2" points="247 -105 247 2079.84 1977.26 2079.84 1977.26 3517.45 913.26 3517.45 913.26 5134"/>
+  </g>
+  <g id="Capa_1" data-name="Capa 1">
+    <rect id="logoverde" class="cls-1" x="87.22" y="1067" width="318.58" height="320.01" rx="159.29" ry="159.29"/>
+    <rect id="logoverde-2" data-name="logoverde" class="cls-1" x="685.43" y="1889.36" width="318.58" height="320.01" rx="159.29" ry="159.29"/>
+    <rect id="logoverde-3" data-name="logoverde" class="cls-1" x="1817.52" y="2943.36" width="318.58" height="320.01" rx="159.29" ry="159.29"/>
+    <rect id="logoverde-4" data-name="logoverde" class="cls-1" x="761.52" y="4366.36" width="318.58" height="320.01" rx="159.29" ry="159.29"/>
+  </g>
+</svg>

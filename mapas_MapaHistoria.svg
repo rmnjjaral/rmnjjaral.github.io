@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4785.26 869.39">
+  <g id="mapaSeguridad">
+    <line x1="-90.83" y1="669.59" x2="4923.17" y2="669.59" style="fill: #000; stroke: #e25790; stroke-miterlimit: 10; stroke-width: 40px;"/>
+  </g>
+  <g id="mapaHistoria">
+    <g>
+      <g>
+        <g>
+          <path d="M139.8,158.69c-8.35,0-15.15-6.79-15.17-15.14l-.08-39.35c-.02-8.36,6.77-15.18,15.14-15.2l352.67-.72c8.38,0,15.18,6.79,15.2,15.14l.08,39.35c0,4.05-1.56,7.86-4.42,10.73s-6.67,4.46-10.72,4.46l-352.7.72Z" style="fill: #efefe8; stroke-width: 0px;"/>
+          <path d="M492.39,90.78c6.98,0,12.65,5.65,12.67,12.64l.08,39.35c.01,7-5.65,12.68-12.64,12.69l-352.67.72h-.03c-6.98,0-12.65-5.65-12.67-12.64l-.08-39.35c-.01-7,5.65-12.68,12.64-12.69l352.67-.72h.03M492.39,85.78h-.03l-352.68.72c-4.72,0-9.15,1.86-12.48,5.2-3.33,3.34-5.16,7.78-5.15,12.5l.08,39.35c.02,9.72,7.95,17.63,17.67,17.63l352.7-.72c4.72,0,9.15-1.86,12.48-5.2,3.33-3.34,5.16-7.78,5.15-12.5l-.08-39.35c-.02-9.72-7.95-17.63-17.67-17.63h0Z" style="fill: #070707; stroke-width: 0px;"/>
+        </g>
+        <rect x="135.01" y="96.69" width="362.18" height="53.6" transform="translate(-.25 .64) rotate(-.12)" style="fill: #e25790; stroke-width: 0px;"/>
+        <text transform="translate(212.74 133.82)" style="fill: #efefe8; font-family: MetroDF, MetroDF; font-size: 32px;"><tspan x="0" y="0" style="letter-spacing: .08em;">HI</tspan><tspan x="42.69" y="0" style="letter-spacing: .03em;">S</tspan><tspan x="72.64" y="0" style="letter-spacing: .05em;">T</tspan><tspan x="100.61" y="0" style="letter-spacing: .08em;">ORIA</tspan></text>
+      </g>
+      <g>
+        <polygon points="374.1 180.31 374.1 749.81 358.1 749.81 358.1 516.31 274.1 516.31 274.1 749.81 258.1 749.81 258.1 180.31 297.6 180.31 297.6 161.46 334.6 161.46 334.6 180.31 374.1 180.31" style="fill: #070707; stroke-width: 0px;"/>
+        <g>
+          <g>
+            <g>
+              <rect x="269.94" y="409.31" width="92" height="92" style="fill: #efefe8; stroke-width: 0px;"/>
+              <path d="M306.13,482.47l2.2-17.3h-26.62v-25.93h26.62l-2.2-17.3c-.46-3.59,3.48-5.91,6.1-3.59l38.25,33.85-38.25,33.85c-2.62,2.32-6.56,0-6.1-3.59Z" style="fill: #e25790; stroke-width: 0px;"/>
+            </g>
+            <g>
+              <rect x="270.26" y="197.31" width="92" height="92" style="fill: #efefe8; stroke-width: 0px;"/>
+              <g>
+                <path d="M307.82,217.55h18.1v13.98c0,4.99-4.05,9.05-9.05,9.05h0c-4.99,0-9.05-4.05-9.05-9.05v-13.98h0Z" style="fill: #000; stroke-width: 0px;"/>
+                <path d="M315.21,224.17h3.71c1.22,0,2.25.81,2.4,1.9l3.21,23.86c.41,3.07,2.53,5.74,5.64,7.1l22.25,9.76c.6.26.96.84.88,1.44l-.19,1.5c-.09.72-.77,1.27-1.59,1.27h-71.46c-.69,0-1.3-.39-1.51-.97l-.59-1.57c-.26-.69.11-1.45.85-1.75l24.19-9.8c3.17-1.28,5.38-3.91,5.89-6.98l3.93-23.91c.17-1.06,1.19-1.84,2.39-1.84Z" style="fill: #ff1d25; stroke-width: 0px;"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <path d="M270.51,395.59v-91h57.25c18.61,0,33.75,15.14,33.75,33.75v57.25h-91ZM329.32,382.17v-44.02c0-1.14-.93-2.06-2.07-2.06h-6.92v46.08h8.99ZM311.01,382.17v-44.02c0-1.14-.93-2.06-2.07-2.06h-6.92v46.08h8.99ZM293.6,382.17v-44.02c0-1.14-.92-2.06-2.06-2.06h-6.93v46.08h8.99ZM347.41,381.49v-42.42c0-11.61-9.44-21.05-21.05-21.05h-41.51v8.99h40.1c7.43,0,13.47,6.04,13.47,13.47v41.02h8.99Z" style="fill: #e25790; stroke-width: 0px;"/>
+              <path d="M327.76,305.59c18.09,0,32.75,14.66,32.75,32.75v56.25h-89v-89h56.25M283.85,328h41.1c6.89,0,12.47,5.58,12.47,12.47v42.02h10.99v-43.42c0-12.18-9.87-22.05-22.05-22.05h-42.51v10.99M319.33,383.17h10.99v-45.02c0-1.69-1.37-3.06-3.07-3.06h-7.92v48.08M301.02,383.17h10.99v-45.02c0-1.69-1.37-3.06-3.07-3.06h-7.92v48.08M283.62,383.17h10.99v-45.02c0-1.69-1.37-3.06-3.06-3.06h-7.93v48.08M327.76,303.59h-58.25v93h93v-58.25c0-19.16-15.59-34.75-34.75-34.75h0ZM285.85,319.01h40.51c11.06,0,20.05,9,20.05,20.05v41.42h-6.99v-40.02c0-7.98-6.49-14.47-14.47-14.47h-39.1v-6.99h0ZM321.33,337.1h5.92c.59,0,1.07.48,1.07,1.06v43.02h-6.99v-44.08h0ZM303.02,337.1h5.92c.59,0,1.07.48,1.07,1.06v43.02h-6.99v-44.08h0ZM285.62,337.1h5.93c.59,0,1.06.48,1.06,1.06v43.02h-6.99v-44.08h0Z" style="fill: #e8e8dd; stroke-width: 0px;"/>
+            </g>
+            <path d="M330.81,337.69v45.39h-11.08v-48.47h7.99c1.71,0,3.09,1.38,3.09,3.09Z" style="fill: #e25790; stroke-width: 0px;"/>
+            <path d="M349.04,338.6v43.78h-11.08v-42.36c0-6.95-5.63-12.57-12.57-12.57h-41.44v-11.08h42.86c12.28,0,22.23,9.96,22.23,22.24Z" style="fill: #e25790; stroke-width: 0px;"/>
+            <g>
+              <path d="M294.8,337.69v45.39h-11.08v-48.47h7.99c1.7,0,3.09,1.38,3.09,3.09Z" style="fill: #e8e8dd; stroke-width: 0px;"/>
+              <path d="M312.34,337.69v45.39h-11.08v-48.47h7.99c1.71,0,3.09,1.38,3.09,3.09Z" style="fill: #e8e8dd; stroke-width: 0px;"/>
+              <path d="M330.81,337.69v45.39h-11.08v-48.47h7.99c1.71,0,3.09,1.38,3.09,3.09Z" style="fill: #e8e8dd; stroke-width: 0px;"/>
+              <path d="M349.04,338.6v43.78h-11.08v-42.36c0-6.95-5.63-12.57-12.57-12.57h-41.44v-11.08h42.86c12.28,0,22.23,9.96,22.23,22.24Z" style="fill: #e8e8dd; stroke-width: 0px;"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text transform="translate(4287.75 626.67)" style="fill: #000; font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 32px;"><tspan x="0" y="0" style="letter-spacing: .07em;">nosot</tspan><tspan x="88.16" y="0" style="letter-spacing: .09em;">r</tspan><tspan x="101.6" y="0" style="letter-spacing: .07em;">x</tspan><tspan x="118.62" y="0" style="letter-spacing: .08em;">s ha</tspan><tspan x="180.86" y="0" style="letter-spacing: .07em;">c</tspan><tspan x="197.41" y="0" style="letter-spacing: .08em;">emos al met</tspan><tspan x="386.62" y="0" style="letter-spacing: .07em;">r</tspan><tspan x="399.16" y="0" style="letter-spacing: .07em;">o</tspan></text>
+    <text transform="translate(629.67 525.15)" style="fill: #000; font-family: MetroDF, MetroDF; font-size: 48px;"><tspan x="0" y="0">En con</tspan><tspan x="237.55" y="0" style="letter-spacing: -.05em;">s</tspan><tspan x="278.88" y="0" style="letter-spacing: 0em;">tr</tspan><tspan x="358.56" y="0" style="letter-spacing: .03em;">u</tspan><tspan x="405.5" y="0" style="letter-spacing: .03em;">c</tspan><tspan x="448.27" y="0">ción...</tspan></text>
+  </g>
+</svg>
